@@ -1,5 +1,6 @@
 #!/usr/bin/env python
 # open file for appending and reading, create if doesn't exist
+#if it doesn't work, make it work
 f = open('glist', 'a+')
 # create empty grocery list
 groceries = []
